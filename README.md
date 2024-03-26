@@ -60,16 +60,10 @@ Customers fall into 5 categories;
 
 ## Automated Financial Position Statement
 
-![PBIDesktop_IncomeStatement](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/d1f28320-ebaa-4fe4-9af2-2f4ea85cfa7a)
+![PBIDesktop_IncomeStatement](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/4475c077-a7ff-4477-a9d2-fdf424f66a03)
 
 ## Automated Consolidated Balance Sheet
 
 ## Automated 
-
-
-
-
-
-Customer Experience Analysis
 
  
