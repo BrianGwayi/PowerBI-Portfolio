@@ -7,12 +7,8 @@ financial health and whether they are meeting revenue targets. Keeping a close e
 month revenue also help identify growth opportunities, resource allocation and ultimately lead
 the business to long term Sucess.
 
-### Landing Page
-
 ![PBIDesktop_OlUKNlaaPm](https://github.com/BrianGwayi/Coffee-Shop-Revenue-PowerBI/assets/115585139/33c60224-0e7f-453c-9233-c07c251fdc48)
 
-
-### Detailed Page
 
 ![PBIDesktop_tu1YirWecQ](https://github.com/BrianGwayi/Coffee-Shop-Revenue-PowerBI/assets/115585139/07a7cbd9-4957-44e3-bc11-f35243ed4fa9)
 
@@ -20,7 +16,7 @@ the business to long term Sucess.
 ## Customer Experience Analysis
 ## Net Promoter Score
 
-How likely is it that you would recommend [Organization X] to a friend/family?
+"How likely is it that you would recommend [Organization X] to a friend/family?"
 
 Rating ranges between 0 (not likely) - 10 (Very likely).
 Customers fall into 3 categories;
@@ -30,4 +26,38 @@ Customers fall into 3 categories;
 • Detractors (score 0-6) are unhappy, can damage brand through negative word-of-mouth.  
 
 ![PBIDesktop_ieyw2Zlxw1](https://github.com/BrianGwayi/NetPromoterScore-PowerBI/assets/115585139/aab68aee-3284-4f86-a0e6-6376654c8670)
+
+![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/fac8c672-3c16-4299-b745-dba652163251)
+
+## Customer Satisfaction Score
+
+Customer Satisfaction Score is a key performance indicators that measure customer satisfaction with a company's products or services
+
+“How satisfied were you with your experience/our product/service?”
+
+• Very Satisfied (score 5) 
+• Satisfied (score 4) 
+• Unsure (score 3) 
+• Unsatisfied (score 2)
+• Very Unsatisfied (score 1)
+
+
+![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/d95cf3ae-6628-45b9-8f7a-fb2baffed992)
+
+## Customer Effort Score
+
+Customer effort score (CES) measures how much effort a customer has to exert to get an issue resolved, a request fulfilled, a product purchased/returned or a question answered.
+
+“On a scale of ‘very easy’ to ‘very difficult’, how easy was it to interact with [company name]?” 
+The idea is that customers are more loyal to a product or service that is easier to use.
+Customers fall into 5 categories;
+
+• Very Easy (score 5) 
+• Easy (score 4) 
+• Unsure (score 3) 
+• Difficult (score 2)
+• Very Difficult (score 1)
+
+![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/75159c6c-9b1b-48f0-a0e4-744e33ea2cde)
+
  
