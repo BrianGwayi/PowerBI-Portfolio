@@ -33,11 +33,11 @@ Customer Satisfaction Score is a key performance indicators that measure custome
 
 “How satisfied were you with your experience/our product/service?”
 
-• Very Satisfied (score 5) 
-• Satisfied (score 4) 
-• Unsure (score 3) 
-• Unsatisfied (score 2)
-• Very Unsatisfied (score 1)
+• Very Satisfied (score 5)  
+• Satisfied (score 4)  
+• Unsure (score 3)  
+• Unsatisfied (score 2)  
+• Very Unsatisfied (score 1)  
 
 
 ![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/d95cf3ae-6628-45b9-8f7a-fb2baffed992)
@@ -50,11 +50,11 @@ Customer effort score (CES) measures how much effort a customer has to exert to 
 The idea is that customers are more loyal to a product or service that is easier to use.
 Customers fall into 5 categories;
 
-• Very Easy (score 5) 
-• Easy (score 4) 
-• Unsure (score 3) 
-• Difficult (score 2)
-• Very Difficult (score 1)
+• Very Easy (score 5)   
+• Easy (score 4)   
+• Unsure (score 3)   
+• Difficult (score 2)  
+• Very Difficult (score 1)  
 
 ![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/75159c6c-9b1b-48f0-a0e4-744e33ea2cde)
 
