@@ -25,8 +25,6 @@ Customers fall into 3 categories;
 • Passives (score 7-8) are satisfied but unenthusiastic, vulnerable to competitive offerings.  
 • Detractors (score 0-6) are unhappy, can damage brand through negative word-of-mouth.  
 
-![PBIDesktop_ieyw2Zlxw1](https://github.com/BrianGwayi/NetPromoterScore-PowerBI/assets/115585139/aab68aee-3284-4f86-a0e6-6376654c8670)
-
 ![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/fac8c672-3c16-4299-b745-dba652163251)
 
 ## Customer Satisfaction Score
@@ -59,5 +57,19 @@ Customers fall into 5 categories;
 • Very Difficult (score 1)
 
 ![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/75159c6c-9b1b-48f0-a0e4-744e33ea2cde)
+
+## Automated Financial Position Statement
+
+![PBIDesktop_IncomeStatement](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/d1f28320-ebaa-4fe4-9af2-2f4ea85cfa7a)
+
+## Automated Consolidated Balance Sheet
+
+## Automated 
+
+
+
+
+
+Customer Experience Analysis
 
  
