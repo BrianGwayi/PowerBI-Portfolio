@@ -55,7 +55,7 @@ Customers fall into 5 categories;
 • Unsure (score 3)   
 • Difficult (score 2)  
 • Very Difficult (score 1)  
-
+![PBIDesktop_eeRgpT7pEo](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/72214b27-01a3-427f-a33e-e2c6bc64e750)
 ![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/d3ef7b86-1d5c-49e8-9bb9-834e808701c6)
 
 ## Automated Financial Position Statement
