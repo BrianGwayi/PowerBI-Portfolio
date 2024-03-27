@@ -7,10 +7,10 @@ financial health and whether they are meeting revenue targets. Keeping a close e
 month revenue also help identify growth opportunities, resource allocation and ultimately lead
 the business to long term Sucess.
 
-![PBIDesktop_OlUKNlaaPm](https://github.com/BrianGwayi/Coffee-Shop-Revenue-PowerBI/assets/115585139/33c60224-0e7f-453c-9233-c07c251fdc48)
+![PBIDesktop_locUUIONoE](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/6b82293d-cfd3-499a-baff-44b801b3052c)
 
 
-![PBIDesktop_tu1YirWecQ](https://github.com/BrianGwayi/Coffee-Shop-Revenue-PowerBI/assets/115585139/07a7cbd9-4957-44e3-bc11-f35243ed4fa9)
+![PBIDesktop_F6atQp6pY9](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/fd809a1a-8768-42ae-9a52-360048650ef6)
 
 
 ## Customer Experience Analysis
