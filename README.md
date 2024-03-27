@@ -14,6 +14,9 @@ the business to long term Sucess.
 
 
 ## Customer Experience Analysis
+
+![PBIDesktop_3wm8Dk3c6G](https://github.com/akshitvjain/product-sales-forecasting/assets/115585139/c38661a6-1690-4611-8627-24a4952b7be7)
+
 ## Net Promoter Score
 
 "How likely is it that you would recommend [Organization X] to a friend/family?"
