@@ -25,7 +25,7 @@ Customers fall into 3 categories;
 • Passives (score 7-8) are satisfied but unenthusiastic, vulnerable to competitive offerings.  
 • Detractors (score 0-6) are unhappy, can damage brand through negative word-of-mouth.  
 
-![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/fac8c672-3c16-4299-b745-dba652163251)
+![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/ca8820e6-217c-4131-bcfd-27ca5af84047)
 
 ## Customer Satisfaction Score
 
@@ -40,7 +40,7 @@ Customer Satisfaction Score is a key performance indicators that measure custome
 • Very Unsatisfied (score 1)  
 
 
-![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/d95cf3ae-6628-45b9-8f7a-fb2baffed992)
+![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/2ed4efab-d87c-412b-b6f4-6ebf4e13db9b)
 
 ## Customer Effort Score
 
@@ -56,7 +56,7 @@ Customers fall into 5 categories;
 • Difficult (score 2)  
 • Very Difficult (score 1)  
 
-![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/75159c6c-9b1b-48f0-a0e4-744e33ea2cde)
+![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/d3ef7b86-1d5c-49e8-9bb9-834e808701c6)
 
 ## Automated Financial Position Statement
 
