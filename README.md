@@ -18,10 +18,6 @@ the business to long term sucess.
 
 ![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/ed3e4c56-56a2-4a91-b8a9-d9cff93f18fd)
 
-![PBIDesktop_3wm8Dk3c6G](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/bce194e8-d268-45ca-8820-20eb62807720)
-
-![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/a57b8fac-c7e9-4245-a41e-8124812e32e6)
-
 ![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/09dccad3-8119-4a2c-958d-33cca7db4f53)
 
 ![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/43e62c0c-5397-4036-a414-1bdb847f96ec)
