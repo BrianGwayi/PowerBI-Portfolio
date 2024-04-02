@@ -21,7 +21,17 @@ the business to long term sucess.
 ![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/09dccad3-8119-4a2c-958d-33cca7db4f53)
 
 ![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/43e62c0c-5397-4036-a414-1bdb847f96ec)
+  
 
+## Automated Financial Position Statement
+
+![PBIDesktop_AKVEdRu7DC](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/3492c93e-59b9-42b7-a062-e7a77ae60d52)
+
+![PBIDesktop_IncomeStatement](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/4475c077-a7ff-4477-a9d2-fdf424f66a03)
+
+## Automated Consolidated Balance Sheet
+
+## Automated 
 
 ## Net Promoter Score
 
@@ -58,16 +68,6 @@ Customers fall into 5 categories;
 • Easy (score 4)   
 • Unsure (score 3)   
 • Difficult (score 2)  
-• Very Difficult (score 1)  
-
-## Automated Financial Position Statement
-
-![PBIDesktop_AKVEdRu7DC](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/3492c93e-59b9-42b7-a062-e7a77ae60d52)
-
-![PBIDesktop_IncomeStatement](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/4475c077-a7ff-4477-a9d2-fdf424f66a03)
-
-## Automated Consolidated Balance Sheet
-
-## Automated 
+• Very Difficult (score 1)
 
  
