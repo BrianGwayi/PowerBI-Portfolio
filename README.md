@@ -17,6 +17,13 @@ the business to long term sucess.
 
 ![PBIDesktop_3wm8Dk3c6G](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/bce194e8-d268-45ca-8820-20eb62807720)
 
+![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/a57b8fac-c7e9-4245-a41e-8124812e32e6)
+
+![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/09dccad3-8119-4a2c-958d-33cca7db4f53)
+
+![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/43e62c0c-5397-4036-a414-1bdb847f96ec)
+
+
 ## Net Promoter Score
 
 "How likely is it that you would recommend [Organization X] to a friend/family?"
@@ -27,8 +34,6 @@ Customers fall into 3 categories;
 • Promoters (score 9-10) are loyal enthusiasts.  
 • Passives (score 7-8) are satisfied but unenthusiastic, vulnerable to competitive offerings.  
 • Detractors (score 0-6) are unhappy, can damage brand through negative word-of-mouth.
-
-![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/a57b8fac-c7e9-4245-a41e-8124812e32e6)
 
 ## Customer Satisfaction Score
 
@@ -41,8 +46,6 @@ Customer Satisfaction Score is a key performance indicators that measure custome
 • Unsure (score 3)  
 • Unsatisfied (score 2)  
 • Very Unsatisfied (score 1)  
-
-![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/09dccad3-8119-4a2c-958d-33cca7db4f53)
 
 ## Customer Effort Score
 
@@ -57,8 +60,6 @@ Customers fall into 5 categories;
 • Unsure (score 3)   
 • Difficult (score 2)  
 • Very Difficult (score 1)  
-
-![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/43e62c0c-5397-4036-a414-1bdb847f96ec)
 
 ## Automated Financial Position Statement
 
