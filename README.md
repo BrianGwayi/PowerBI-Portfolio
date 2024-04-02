@@ -1,11 +1,11 @@
 # Power BI Portfolio
 
-## Coffee Shop Revenue Performance
+## Coffee Sales Revenue Performance 2024
 
-This simple revenue report will help the client; a coffee retailer understand their
-financial health and whether they are meeting revenue targets. Keeping a close eye on previous
-month revenue also help identify growth opportunities, resource allocation and ultimately lead
-the business to long term Sucess.
+This simple sales revenue report will help the client; a coffee retailer understand their
+financial health and whether they are meeting sales revenue targets. Keeping a close eye on
+previous month revenue also help identify growth opportunities, resource allocation and ultimately lead
+the business to long term sucess.
 
 ![PBIDesktop_locUUIONoE](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/6b82293d-cfd3-499a-baff-44b801b3052c)
 
@@ -15,7 +15,7 @@ the business to long term Sucess.
 
 ## Customer Experience Analysis
 
-![PBIDesktop_3wm8Dk3c6G](https://github.com/akshitvjain/product-sales-forecasting/assets/115585139/c38661a6-1690-4611-8627-24a4952b7be7)
+![PBIDesktop_3wm8Dk3c6G](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/bce194e8-d268-45ca-8820-20eb62807720)
 
 ## Net Promoter Score
 
@@ -26,9 +26,9 @@ Customers fall into 3 categories;
 
 • Promoters (score 9-10) are loyal enthusiasts.  
 • Passives (score 7-8) are satisfied but unenthusiastic, vulnerable to competitive offerings.  
-• Detractors (score 0-6) are unhappy, can damage brand through negative word-of-mouth.  
+• Detractors (score 0-6) are unhappy, can damage brand through negative word-of-mouth.
 
-![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/176e68e0-73a7-4b12-ab9a-53b8e222bfc4)  
+![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/a57b8fac-c7e9-4245-a41e-8124812e32e6)
 
 ## Customer Satisfaction Score
 
@@ -42,8 +42,7 @@ Customer Satisfaction Score is a key performance indicators that measure custome
 • Unsatisfied (score 2)  
 • Very Unsatisfied (score 1)  
 
-
-![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/d1c7de2a-4af3-4368-9d1d-89262be91074)  
+![PBIDesktop_CustomerSatisfactionScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/09dccad3-8119-4a2c-958d-33cca7db4f53)
 
 ## Customer Effort Score
 
@@ -59,8 +58,7 @@ Customers fall into 5 categories;
 • Difficult (score 2)  
 • Very Difficult (score 1)  
 
-
-![PBIDesktop_eeRgpT7pEo](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/72214b27-01a3-427f-a33e-e2c6bc64e750)  
+![PBIDesktop_CustomerEffortScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/43e62c0c-5397-4036-a414-1bdb847f96ec)
 
 ## Automated Financial Position Statement
 
