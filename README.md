@@ -15,6 +15,10 @@ the business to long term sucess.
 
 ## Customer Experience Analysis
 
+A wholistic customer experience analysis, to help businesses gain valuable insights into the overall customer journey, prioritize areas
+for improvement, and implement strategies to enhance the customer experience across all touchpoints. This can lead to increased customer
+satisfaction, loyalty, and advocacy, ultimately driving business growth and success.
+
 
 ![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/ed3e4c56-56a2-4a91-b8a9-d9cff93f18fd)
 
