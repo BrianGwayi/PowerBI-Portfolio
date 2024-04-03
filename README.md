@@ -20,7 +20,7 @@ satisfaction, loyalty, and advocacy, ultimately driving business growth and succ
 
 ![PBIDesktop_vwiU6lF3Jn](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/f658356b-6994-43d4-b3df-c975f6aa6e40)
 
-![PBIDesktop_Nbex5FOtu8](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/ff3905ae-eb65-4d3a-96bc-9607b392b436
+![PBIDesktop_Nbex5FOtu8](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/ff3905ae-eb65-4d3a-96bc-9607b392b436)
 
 ## Automated Financial Position Statement
 
