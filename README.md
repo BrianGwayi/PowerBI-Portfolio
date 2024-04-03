@@ -18,6 +18,7 @@ A wholistic customer experience analysis, to help businesses gain valuable insig
 for improvement, and implement strategies to enhance the customer experience across all touchpoints. This can lead to increased customer
 satisfaction, loyalty, and advocacy, ultimately driving business growth and success.
 
+![PBIDesktop_vwiU6lF3Jn](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/6dc8223b-4be5-4531-85b7-155fa64273ef)
 
 ![PBIDesktop_NetPromoterScore](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/ed3e4c56-56a2-4a91-b8a9-d9cff93f18fd)
 
