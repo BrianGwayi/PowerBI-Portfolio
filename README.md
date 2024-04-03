@@ -7,10 +7,9 @@ financial health and whether they are meeting sales revenue targets. Keeping a c
 previous month revenue also help identify growth opportunities, resource allocation and ultimately lead
 the business to long term sucess.
 
-![PBIDesktop_locUUIONoE](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/6b82293d-cfd3-499a-baff-44b801b3052c)
+![PBIDesktop_locUUIONoE](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/a39ac9b8-2d02-435e-b2d2-63497543bbc2)
 
-
-![PBIDesktop_F6atQp6pY9](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/fd809a1a-8768-42ae-9a52-360048650ef6)
+![PBIDesktop_F6atQp6pY9](https://github.com/BrianGwayi/PowerBI-Portfolio/assets/115585139/73241783-66e0-474c-b06c-64da81cd26f3)
 
 
 ## Customer Experience Analysis
